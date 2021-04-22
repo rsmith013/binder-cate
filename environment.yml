@@ -1,5 +1,6 @@
 name: cate-env
 channels:
+  - anaconda
   - ccitools
   - conda-forge
 dependencies:
